@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">A passionate young developer from Estonia</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Junior Fullstack developer**
 
 - 📫 How to reach me **markus.erkmann@voco.ee**
 
