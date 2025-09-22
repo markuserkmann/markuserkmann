@@ -4,9 +4,6 @@
 - 🌱 I’m a **Junior Fullstack developer** working @ Lumav Commerce
 
 - 📫 How to reach me **markus.erkmann@voco.ee**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
