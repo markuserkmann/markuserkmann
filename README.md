@@ -2,6 +2,7 @@
 <h3 align="center">A passionate young developer & sec engineer from Estonia</h3>
 
 - 🌱 I’m currently working at **Cybernetica** as a **Junior Cybersecurity Engineer Intern**
+-  previously worked as a Fullstack Software Engineer
 
 - 📫 How to reach me **markus.erkmann@voco.ee**
 </p>
